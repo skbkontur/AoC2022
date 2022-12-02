@@ -14,4 +14,4 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 
 ## Santa's nice list
 
-Who want be first?
+- [nulladdict](https://github.com/nulladdict/aoc-2022) [Rust]
