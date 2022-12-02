@@ -15,3 +15,4 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 ## Santa's nice list
 
 - [nulladdict](https://github.com/nulladdict/aoc-2022) [Rust]
+- [mazharenko](https://github.com/mazharenko/AoC-2022) [Polyglot notebooks, F#]
