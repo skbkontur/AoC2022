@@ -11,6 +11,8 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 ## Our journey (videos in Russian)
 
 1. [Day 1](https://youtu.be/LwofK-9jYm4), JavaScript
+1. [Day 2](https://youtu.be/EwA-KUf6_dA), C#
+1. [Day 3](https://youtu.be/1o09OFd_xHk), Kotlin
 
 ## Santa's nice list
 
