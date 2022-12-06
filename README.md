@@ -14,6 +14,7 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 2. [Day 2](https://youtu.be/EwA-KUf6_dA), C#
 3. [Day 3](https://youtu.be/1o09OFd_xHk), Kotlin
 4. [Day 4](https://youtu.be/TZXeuKSoneo), SQL
+5. [Day 5](https://youtu.be/qt-E-mp2eKA), 1С
 
 ## Santa's nice list
 
