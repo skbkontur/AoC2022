@@ -18,6 +18,9 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 6. [Day 6](https://youtu.be/Hy1eLMpdtaQ), Java
 7. [Day 7](https://youtu.be/rAE5kAMG6l4), C#
 8. [Day 8](https://youtu.be/fEWAbAvwRMc), Java
+9. [Day 9](https://youtu.be/rjHaYVgvJnQ), Python
+10. [Day 10](https://youtu.be/9PKr2ezSj8Q), C#
+11. [Day 11](https://youtu.be/avmMuIH6v4M), R
 
 ## Santa's nice list
 
