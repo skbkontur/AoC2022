@@ -21,6 +21,7 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 9. [Day 9](https://youtu.be/rjHaYVgvJnQ), Python
 10. [Day 10](https://youtu.be/9PKr2ezSj8Q), C#
 11. [Day 11](https://youtu.be/avmMuIH6v4M), R
+12. [Day 12](https://youtu.be/5br7anKm3l8), Rust
 
 ## Santa's nice list
 
