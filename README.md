@@ -28,3 +28,4 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 - [nulladdict](https://github.com/nulladdict/aoc-2022) [Rust]
 - [mazharenko](https://github.com/mazharenko/AoC-2022) [Polyglot Notebooks, F#]
 - [aminopyrodin](https://github.com/Aminopyridin/aoc2022) [R]
+- [BurningMarshmallow](https://github.com/BurningMarshmallow/aoc-2022) [Zig]
