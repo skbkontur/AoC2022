@@ -4,3 +4,4 @@
 /src/*/*.iml
 target
 __pycache__/
+node_modules
