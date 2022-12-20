@@ -25,6 +25,12 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 13. [Day 13](https://youtu.be/nVH_ajen3xc), Python
 14. [Day 14](https://youtu.be/lEyjRiNbq-c), Zig
 15. [Day 15](https://youtu.be/hAxJ7ZXRMzM), Rust
+16. [Day 16](https://youtu.be/K5uTevCgVns), Kotlin
+17. [Day 17](https://youtu.be/trSMgyXMtgc), JavaScript
+18. [Day 18](https://youtu.be/GAUj9nKz1Zg), C#
+19. [Day 19](https://youtu.be/APC_1FHVsbY), JavaScript
+20. [Day 20](https://youtu.be/wZE-x4EJHcE), Kotlin
+
 
 ## Santa's nice list
 
