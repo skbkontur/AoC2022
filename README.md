@@ -30,7 +30,7 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 18. [Day 18](https://youtu.be/GAUj9nKz1Zg), C#
 19. [Day 19](https://youtu.be/APC_1FHVsbY), JavaScript
 20. [Day 20](https://youtu.be/wZE-x4EJHcE), Kotlin
-
+21. [Day 21](https://youtu.be/lIczn-FiEHM), C#
 
 ## Santa's nice list
 
