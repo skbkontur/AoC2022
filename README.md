@@ -34,7 +34,7 @@ Puzzle solutions are located in the `src` directory, separated by day and part.
 22. [Day 22](https://youtu.be/-iHarm19PuY), C#
 23. [Day 23](https://youtu.be/1V0dBaWg-G4), Java
 24. [Day 24](https://youtu.be/EOxYalc-yZA), Python
-25. [Day 25](https://youtu.be/-iHarm19PuY), F#
+25. [Day 25](https://youtu.be/qnchQcSxzX0), F#
 
 ## Santa's nice list
 
